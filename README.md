@@ -7,4 +7,6 @@
     >首先，实现一个普通组件；然后，将普通组件使用函数包裹起来   
     >1.higherOrderComponent(WrappedComponent)  
     >2.@higherOrderComponent  
-    >![image](https://github.com/lmmProject/react_02_hoc/blob/master/eject.png)
+    >![image](https://github.com/lmmProject/react_02_hoc/blob/master/eject.png)  
+# 高阶组件的应用：  
+![image](https://github.com/lmmProject/react_02_hoc/blob/master/proxy%26extends.png)
