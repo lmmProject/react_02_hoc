@@ -8,5 +8,7 @@
     >1.higherOrderComponent(WrappedComponent)  
     >2.@higherOrderComponent  
     >![image](https://github.com/lmmProject/react_02_hoc/blob/master/eject.png)  
-# 高阶组件的应用：  
+# 高阶组件的应用（优先代理）：  
+## 代理：1、操作prop; 2、抽取状态； 3、访问ref(慎用)；4、包装组件  
+## 继承：1、操作prop; 2、操纵生命周期函数  
 ![image](https://github.com/lmmProject/react_02_hoc/blob/master/proxy%26extends.png)
